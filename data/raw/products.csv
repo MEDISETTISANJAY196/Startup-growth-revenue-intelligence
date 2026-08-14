@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+P1000,Wireless Headphones 1,Electronics,Standard,2397.93,4644.26
+P1001,Hoodie 2,Fashion,Premium,1763.93,2295.47
+P1002,Sneakers 3,Fashion,Basic,3701.0,6837.6
+P1003,Mixer 4,Home & Kitchen,Standard,3585.73,7055.74
+P1004,Dumbbell Set 5,Fitness,Premium,3129.83,5602.03
+P1005,Perfume 6,Beauty,Premium,173.85,362.07
+P1006,Power Bank 7,Electronics,Premium,3349.06,6453.67
+P1007,Dumbbell Set 8,Fitness,Standard,3530.91,4887.51
+P1008,Yoga Mat 9,Fitness,Premium,1235.16,1676.26
+P1009,Skin Serum 10,Beauty,Standard,2639.48,4324.5
+P1010,Power Bank 11,Electronics,Standard,545.18,968.04
+P1011,Skin Serum 12,Beauty,Premium,1455.1,2459.86
+P1012,Resistance Bands 13,Fitness,Premium,1156.32,1573.92
+P1013,Resistance Bands 14,Fitness,Standard,1885.64,2689.2
+P1014,Face Wash 15,Beauty,Basic,1709.3,2704.58
+P1015,Sneakers 16,Fashion,Premium,3770.64,5229.29
+P1016,Laptop Stand 17,Electronics,Premium,1252.8,2495.41
+P1017,Storage Box 18,Home & Kitchen,Standard,1289.07,2165.98
+P1018,Hair Dryer 19,Beauty,Premium,3083.5,3713.73
+P1019,Coffee Maker 20,Home & Kitchen,Premium,3832.75,6373.22
+P1020,Hoodie 21,Fashion,Standard,3073.88,6519.11
+P1021,Hoodie 22,Fashion,Standard,3525.7,5007.83
+P1022,Face Wash 23,Beauty,Basic,2287.47,3684.32
+P1023,Smart Watch 24,Electronics,Basic,2199.6,4354.4
+P1024,Wireless Headphones 25,Electronics,Basic,1514.74,2540.54
+P1025,Perfume 26,Beauty,Premium,2490.72,3662.76
+P1026,Smart Watch 27,Electronics,Premium,2485.43,3352.63
+P1027,Coffee Maker 28,Home & Kitchen,Standard,2543.34,3416.29
+P1028,Face Wash 29,Beauty,Premium,3136.29,4372.05
+P1029,Power Bank 30,Electronics,Basic,2637.56,4698.02
+P1030,Dumbbell Set 31,Fitness,Premium,1787.53,3298.81
+P1031,Smart Watch 32,Electronics,Premium,3409.09,4500.58
+P1032,Sneakers 33,Fashion,Basic,2754.25,4434.68
+P1033,Sunscreen 34,Beauty,Premium,2744.61,5695.17
+P1034,Table Lamp 35,Home & Kitchen,Basic,2663.42,3621.79
+P1035,Hair Dryer 36,Beauty,Premium,1752.12,3065.24
+P1036,Power Bank 37,Electronics,Basic,638.48,1177.11
+P1037,Hoodie 38,Fashion,Basic,2895.98,5683.41
+P1038,Fitness Tracker 39,Fitness,Premium,611.62,1165.22
+P1039,Water Bottle 40,Home & Kitchen,Basic,1559.81,2201.25
+P1040,Perfume 41,Beauty,Basic,2168.73,3844.55
+P1041,T-Shirt 42,Fashion,Standard,1908.54,3895.03
+P1042,Water Bottle 43,Home & Kitchen,Basic,749.82,1205.08
+P1043,Power Bank 44,Electronics,Basic,1178.01,1471.1
+P1044,Dumbbell Set 45,Fitness,Premium,1455.4,2791.57
+P1045,Coffee Maker 46,Home & Kitchen,Premium,2164.51,3503.79
+P1046,Resistance Bands 47,Fitness,Basic,1977.61,2991.14
+P1047,Laptop Stand 48,Electronics,Basic,620.33,1110.66
+P1048,Sneakers 49,Fashion,Standard,3289.26,6542.51
+P1049,Storage Box 50,Home & Kitchen,Basic,1048.37,1713.34
+P1050,Coffee Maker 51,Home & Kitchen,Premium,2275.67,4556.92
+P1051,Protein Shaker 52,Fitness,Premium,906.55,1207.73
+P1052,Hair Dryer 53,Beauty,Basic,3736.75,5028.62
+P1053,Storage Box 54,Home & Kitchen,Basic,3958.07,7120.46
+P1054,T-Shirt 55,Fashion,Standard,2071.14,2876.69
+P1055,Perfume 56,Beauty,Premium,3462.95,4751.74
+P1056,Mixer 57,Home & Kitchen,Premium,1694.88,2115.27
+P1057,Water Bottle 58,Home & Kitchen,Premium,236.81,456.94
+P1058,Fitness Tracker 59,Fitness,Standard,949.81,1710.41
+P1059,Skin Serum 60,Beauty,Standard,2935.11,4965.58
+P1060,Resistance Bands 61,Fitness,Basic,2677.26,3858.33
+P1061,Hair Dryer 62,Beauty,Standard,3298.77,4638.84
+P1062,Sneakers 63,Fashion,Basic,2423.86,4934.65
+P1063,Fitness Tracker 64,Fitness,Standard,3203.82,4008.84
+P1064,Water Bottle 65,Home & Kitchen,Basic,1563.65,3209.51
+P1065,Coffee Maker 66,Home & Kitchen,Basic,3426.12,6291.76
+P1066,Power Bank 67,Electronics,Basic,567.85,910.98
+P1067,Dumbbell Set 68,Fitness,Premium,3850.44,5030.75
+P1068,Smart Watch 69,Electronics,Premium,3235.4,5234.3
+P1069,T-Shirt 70,Fashion,Premium,3017.25,3784.57
+P1070,Coffee Maker 71,Home & Kitchen,Premium,189.71,284.68
+P1071,Hoodie 72,Fashion,Premium,3500.19,6579.66
+P1072,Mixer 73,Home & Kitchen,Basic,2505.52,5506.33
+P1073,Storage Box 74,Home & Kitchen,Basic,1487.09,3048.91
+P1074,Smart Watch 75,Electronics,Premium,572.21,784.34
+P1075,Table Lamp 76,Home & Kitchen,Premium,1990.67,4298.81
+P1076,Perfume 77,Beauty,Basic,2858.1,3751.34
+P1077,Resistance Bands 78,Fitness,Standard,3826.39,7521.61
+P1078,Backpack 79,Fashion,Basic,2985.94,5229.84
+P1079,Hair Dryer 80,Beauty,Premium,1665.1,2181.11
+P1080,T-Shirt 81,Fashion,Standard,2536.2,3367.29
+P1081,Yoga Mat 82,Fitness,Standard,2421.29,4212.19
+P1082,Coffee Maker 83,Home & Kitchen,Premium,2446.62,4958.77
+P1083,Laptop Stand 84,Electronics,Standard,1733.03,2836.27
+P1084,Smart Watch 85,Electronics,Basic,380.92,566.71
+P1085,Smart Watch 86,Electronics,Premium,461.94,619.81
+P1086,Face Wash 87,Beauty,Basic,1793.17,2881.97
+P1087,Coffee Maker 88,Home & Kitchen,Premium,3753.05,4951.47
+P1088,Hoodie 89,Fashion,Basic,724.82,1414.03
+P1089,Smart Watch 90,Electronics,Basic,236.23,437.25
+P1090,Smart Watch 91,Electronics,Basic,3028.11,5538.37
+P1091,Table Lamp 92,Home & Kitchen,Premium,1258.05,1639.98
+P1092,Bluetooth Speaker 93,Electronics,Premium,3977.57,8191.23
+P1093,Backpack 94,Fashion,Premium,2962.95,4109.73
+P1094,Protein Shaker 95,Fitness,Standard,1809.0,3454.86
+P1095,Dumbbell Set 96,Fitness,Basic,540.51,1166.06
+P1096,Laptop Stand 97,Electronics,Basic,3827.65,5169.22
+P1097,Hair Dryer 98,Beauty,Standard,908.67,1421.23
+P1098,Sunscreen 99,Beauty,Basic,1885.13,3093.0
+P1099,Dumbbell Set 100,Fitness,Standard,2799.59,4675.91
+P1100,T-Shirt 101,Fashion,Basic,859.38,1255.57
+P1101,Resistance Bands 102,Fitness,Premium,1733.1,2979.72
+P1102,Perfume 103,Beauty,Standard,3703.61,4800.67
+P1103,Perfume 104,Beauty,Basic,3246.7,4905.3
+P1104,Coffee Maker 105,Home & Kitchen,Standard,2949.06,4300.49
+P1105,Fitness Tracker 106,Fitness,Standard,1632.81,2683.13
+P1106,Dumbbell Set 107,Fitness,Premium,3040.48,4154.07
+P1107,Laptop Stand 108,Electronics,Standard,1484.23,2565.57
+P1108,Hoodie 109,Fashion,Standard,2681.73,3422.07
+P1109,T-Shirt 110,Fashion,Premium,514.7,987.44
+P1110,Backpack 111,Fashion,Basic,1559.67,2129.91
+P1111,T-Shirt 112,Fashion,Basic,1163.32,2091.9
+P1112,T-Shirt 113,Fashion,Standard,3820.19,7380.27
+P1113,Wireless Headphones 114,Electronics,Standard,3218.67,5820.8
+P1114,Jacket 115,Fashion,Standard,1579.05,3414.23
+P1115,Skin Serum 116,Beauty,Basic,462.9,929.79
+P1116,Storage Box 117,Home & Kitchen,Premium,1144.34,2068.8
+P1117,Face Wash 118,Beauty,Basic,3932.19,8030.68
+P1118,Protein Shaker 119,Fitness,Standard,3423.04,6925.04
+P1119,Backpack 120,Fashion,Premium,1897.11,3022.2
+P1120,Sunscreen 121,Beauty,Premium,2146.42,3187.68
+P1121,Coffee Maker 122,Home & Kitchen,Premium,1990.86,2641.47
+P1122,Face Wash 123,Beauty,Premium,3586.26,6941.82
+P1123,Jacket 124,Fashion,Premium,388.82,723.19
+P1124,T-Shirt 125,Fashion,Premium,3070.99,6331.19
+P1125,Face Wash 126,Beauty,Basic,1417.13,2594.39
+P1126,Backpack 127,Fashion,Standard,1212.93,2485.15
+P1127,Yoga Mat 128,Fitness,Premium,3519.37,4492.66
+P1128,T-Shirt 129,Fashion,Basic,1247.53,1625.3
+P1129,Bluetooth Speaker 130,Electronics,Basic,1685.23,2030.95
+P1130,Jacket 131,Fashion,Standard,3163.87,5161.7
+P1131,Jacket 132,Fashion,Standard,2207.02,4287.4
+P1132,T-Shirt 133,Fashion,Basic,2892.45,4381.08
+P1133,Mixer 134,Home & Kitchen,Standard,3163.65,5823.51
+P1134,Sneakers 135,Fashion,Basic,989.96,1216.91
+P1135,Skin Serum 136,Beauty,Premium,3061.23,4180.56
+P1136,Bluetooth Speaker 137,Electronics,Premium,583.57,945.62
+P1137,Backpack 138,Fashion,Premium,3698.61,7094.51
+P1138,Jacket 139,Fashion,Premium,3222.54,4736.79
+P1139,Wireless Headphones 140,Electronics,Standard,3364.95,5435.67
+P1140,Protein Shaker 141,Fitness,Premium,3920.68,6938.64
+P1141,Resistance Bands 142,Fitness,Standard,2484.0,5253.99
+P1142,Resistance Bands 143,Fitness,Basic,3801.35,4628.7
+P1143,Jacket 144,Fashion,Basic,1044.96,1895.81
+P1144,Sunscreen 145,Beauty,Standard,163.92,248.75
+P1145,Hoodie 146,Fashion,Standard,905.81,1561.14
+P1146,Yoga Mat 147,Fitness,Premium,2449.66,3402.61
+P1147,Mixer 148,Home & Kitchen,Premium,2215.09,3536.89
+P1148,Perfume 149,Beauty,Basic,3965.2,5016.39
+P1149,Fitness Tracker 150,Fitness,Basic,3386.64,7448.85
+P1150,Backpack 151,Fashion,Premium,2235.13,4203.32
+P1151,Mixer 152,Home & Kitchen,Basic,642.6,996.56
+P1152,Smart Watch 153,Electronics,Basic,848.74,1513.58
+P1153,Skin Serum 154,Beauty,Basic,3777.04,4644.22
+P1154,Jacket 155,Fashion,Basic,2053.62,3950.26
+P1155,Laptop Stand 156,Electronics,Premium,1807.89,3143.69
+P1156,Sneakers 157,Fashion,Basic,1893.95,3404.36
+P1157,Protein Shaker 158,Fitness,Premium,414.02,723.21
+P1158,Laptop Stand 159,Electronics,Standard,2120.35,2930.02
+P1159,Mixer 160,Home & Kitchen,Standard,2208.79,3673.55
+P1160,Fitness Tracker 161,Fitness,Standard,2433.73,4292.67
+P1161,Wireless Headphones 162,Electronics,Standard,1707.67,3383.12
+P1162,Coffee Maker 163,Home & Kitchen,Basic,1526.21,2555.7
+P1163,Laptop Stand 164,Electronics,Premium,1791.68,3020.54
+P1164,Bluetooth Speaker 165,Electronics,Basic,3230.7,6169.54
+P1165,Laptop Stand 166,Electronics,Basic,312.62,529.76
+P1166,Protein Shaker 167,Fitness,Standard,630.3,1216.06
+P1167,Yoga Mat 168,Fitness,Standard,3948.77,7182.03
+P1168,Face Wash 169,Beauty,Standard,1612.47,2051.57
+P1169,Perfume 170,Beauty,Premium,1430.39,2467.84
+P1170,Skin Serum 171,Beauty,Premium,3541.31,6066.24
+P1171,Table Lamp 172,Home & Kitchen,Premium,3940.06,6182.61
+P1172,Resistance Bands 173,Fitness,Premium,151.89,277.75
+P1173,Smart Watch 174,Electronics,Premium,993.69,1434.67
+P1174,Fitness Tracker 175,Fitness,Standard,217.08,375.87
+P1175,Protein Shaker 176,Fitness,Standard,1102.9,2420.08
+P1176,Jacket 177,Fashion,Standard,3367.28,6469.18
+P1177,Face Wash 178,Beauty,Basic,1512.48,1923.27
+P1178,Storage Box 179,Home & Kitchen,Basic,2725.43,3331.3
+P1179,Coffee Maker 180,Home & Kitchen,Premium,1850.16,2317.83
+P1180,Sunscreen 181,Beauty,Basic,2304.87,4055.52
+P1181,Table Lamp 182,Home & Kitchen,Basic,2192.87,4198.44
+P1182,Hair Dryer 183,Beauty,Premium,1028.4,1483.13
+P1183,Yoga Mat 184,Fitness,Standard,1752.23,3334.09
+P1184,Water Bottle 185,Home & Kitchen,Premium,599.5,1250.49
+P1185,Face Wash 186,Beauty,Standard,1121.02,1488.59
+P1186,Storage Box 187,Home & Kitchen,Basic,2456.05,3624.1
+P1187,Perfume 188,Beauty,Standard,1723.74,2173.83
+P1188,Hair Dryer 189,Beauty,Basic,1940.11,2917.33
+P1189,Protein Shaker 190,Fitness,Premium,803.82,1275.11
+P1190,Fitness Tracker 191,Fitness,Basic,3114.76,6116.3
+P1191,Face Wash 192,Beauty,Premium,1537.87,3343.69
+P1192,Perfume 193,Beauty,Standard,634.66,1304.07
+P1193,Dumbbell Set 194,Fitness,Premium,3918.97,6948.18
+P1194,Coffee Maker 195,Home & Kitchen,Premium,381.51,809.2
+P1195,Storage Box 196,Home & Kitchen,Standard,1832.3,2513.71
+P1196,Laptop Stand 197,Electronics,Basic,3581.98,5827.45
+P1197,Sunscreen 198,Beauty,Standard,2072.64,3670.69
+P1198,Power Bank 199,Electronics,Standard,3640.41,6202.35
+P1199,Sneakers 200,Fashion,Standard,3569.59,4891.16
+P1200,Hair Dryer 201,Beauty,Basic,2524.31,4355.71
+P1201,Protein Shaker 202,Fitness,Premium,1401.4,1979.52
+P1202,Face Wash 203,Beauty,Standard,419.27,612.86
+P1203,Coffee Maker 204,Home & Kitchen,Premium,2770.27,4095.04
+P1204,Bluetooth Speaker 205,Electronics,Standard,2953.22,6128.38
+P1205,Mixer 206,Home & Kitchen,Premium,2823.08,5660.47
+P1206,Jacket 207,Fashion,Standard,2356.84,5059.2
+P1207,Bluetooth Speaker 208,Electronics,Basic,3087.33,4701.0
+P1208,Wireless Headphones 209,Electronics,Basic,2934.9,5493.72
+P1209,Resistance Bands 210,Fitness,Standard,3042.96,4623.36
+P1210,Power Bank 211,Electronics,Standard,2111.89,4393.54
+P1211,Coffee Maker 212,Home & Kitchen,Premium,3906.5,6093.9
+P1212,Wireless Headphones 213,Electronics,Premium,2023.81,3098.1
+P1213,Sneakers 214,Fashion,Premium,2914.07,3609.92
+P1214,Table Lamp 215,Home & Kitchen,Premium,3822.18,6686.4
+P1215,Smart Watch 216,Electronics,Basic,1193.15,1476.27
+P1216,Sunscreen 217,Beauty,Premium,2308.86,4124.03
+P1217,Skin Serum 218,Beauty,Premium,2826.69,4877.16
+P1218,Bluetooth Speaker 219,Electronics,Standard,2135.46,3212.01
+P1219,Coffee Maker 220,Home & Kitchen,Premium,897.04,1301.61
+P1220,Jacket 221,Fashion,Premium,1592.81,3143.17
+P1221,Dumbbell Set 222,Fitness,Premium,605.28,1115.94
+P1222,Laptop Stand 223,Electronics,Standard,296.15,368.14
+P1223,Resistance Bands 224,Fitness,Basic,1203.55,1874.16
+P1224,Backpack 225,Fashion,Standard,881.07,1838.12
+P1225,Wireless Headphones 226,Electronics,Basic,1323.16,2207.51
+P1226,T-Shirt 227,Fashion,Premium,3977.35,5782.67
+P1227,Storage Box 228,Home & Kitchen,Premium,2532.35,4929.28
+P1228,Yoga Mat 229,Fitness,Premium,1193.51,1500.82
+P1229,Hair Dryer 230,Beauty,Premium,3196.75,4760.03
+P1230,T-Shirt 231,Fashion,Standard,1386.86,2239.42
+P1231,Dumbbell Set 232,Fitness,Basic,300.34,616.12
+P1232,Hair Dryer 233,Beauty,Premium,3473.83,7195.56
+P1233,Backpack 234,Fashion,Premium,853.09,1856.5
+P1234,Storage Box 235,Home & Kitchen,Standard,2696.72,4835.08
+P1235,Face Wash 236,Beauty,Premium,2930.72,5732.36
+P1236,Yoga Mat 237,Fitness,Premium,1752.09,3125.59
+P1237,Laptop Stand 238,Electronics,Standard,2402.8,2902.13
+P1238,Backpack 239,Fashion,Premium,187.6,313.42
+P1239,Wireless Headphones 240,Electronics,Basic,2300.11,4386.82
+P1240,Backpack 241,Fashion,Standard,3047.95,5442.97
+P1241,Wireless Headphones 242,Electronics,Basic,1244.92,2264.9
+P1242,Table Lamp 243,Home & Kitchen,Standard,1150.23,2320.68
+P1243,Water Bottle 244,Home & Kitchen,Premium,1779.77,3728.54
+P1244,Face Wash 245,Beauty,Standard,642.56,1224.38
+P1245,Dumbbell Set 246,Fitness,Premium,1802.88,2393.1
+P1246,Storage Box 247,Home & Kitchen,Premium,2302.21,3250.38
+P1247,Dumbbell Set 248,Fitness,Basic,1275.57,2112.63
+P1248,Mixer 249,Home & Kitchen,Standard,1552.79,2466.94
+P1249,Hoodie 250,Fashion,Basic,1678.56,2042.76
+P1250,Table Lamp 251,Home & Kitchen,Premium,1564.16,2492.5
+P1251,Perfume 252,Beauty,Standard,2432.03,4088.04
+P1252,Sneakers 253,Fashion,Standard,814.29,1455.88
+P1253,Hoodie 254,Fashion,Basic,285.07,437.09
+P1254,Laptop Stand 255,Electronics,Basic,2537.44,4628.25
+P1255,Water Bottle 256,Home & Kitchen,Basic,844.58,1299.97
+P1256,Storage Box 257,Home & Kitchen,Basic,1912.13,3081.26
+P1257,Storage Box 258,Home & Kitchen,Standard,2788.83,5410.85
+P1258,Fitness Tracker 259,Fitness,Standard,307.31,597.8
+P1259,Hair Dryer 260,Beauty,Premium,3532.25,7466.84
+P1260,Table Lamp 261,Home & Kitchen,Premium,365.53,761.66
+P1261,Jacket 262,Fashion,Standard,780.27,1200.33
+P1262,Water Bottle 263,Home & Kitchen,Basic,1619.4,2427.46
+P1263,Jacket 264,Fashion,Basic,1284.65,1759.22
+P1264,Mixer 265,Home & Kitchen,Standard,2687.21,4784.45
+P1265,Smart Watch 266,Electronics,Standard,2512.06,4324.15
+P1266,Table Lamp 267,Home & Kitchen,Basic,1000.22,1786.7
+P1267,Smart Watch 268,Electronics,Premium,2666.85,3338.69
+P1268,Face Wash 269,Beauty,Basic,3952.8,7035.13
+P1269,Backpack 270,Fashion,Basic,2607.58,4614.59
+P1270,T-Shirt 271,Fashion,Basic,2809.27,5216.38
+P1271,Resistance Bands 272,Fitness,Premium,3226.74,4393.36
+P1272,Backpack 273,Fashion,Standard,780.33,1107.74
+P1273,Backpack 274,Fashion,Standard,3859.29,6009.05
+P1274,Sunscreen 275,Beauty,Premium,1367.27,1954.25
+P1275,Jacket 276,Fashion,Standard,2003.41,4217.81
+P1276,Hair Dryer 277,Beauty,Premium,2745.59,3810.22
+P1277,Coffee Maker 278,Home & Kitchen,Standard,3373.81,7238.53
+P1278,Hoodie 279,Fashion,Premium,2895.26,5193.01
+P1279,Water Bottle 280,Home & Kitchen,Premium,2736.32,5297.45
+P1280,Water Bottle 281,Home & Kitchen,Premium,3458.7,6428.58
+P1281,Mixer 282,Home & Kitchen,Standard,2196.18,3036.11
+P1282,Laptop Stand 283,Electronics,Standard,1590.77,2043.49
+P1283,Dumbbell Set 284,Fitness,Premium,2954.83,6477.85
+P1284,Power Bank 285,Electronics,Basic,519.47,852.03
+P1285,Bluetooth Speaker 286,Electronics,Basic,2845.29,3499.48
+P1286,Face Wash 287,Beauty,Standard,1842.35,3675.08
+P1287,Coffee Maker 288,Home & Kitchen,Basic,1278.85,2378.28
+P1288,Storage Box 289,Home & Kitchen,Standard,2488.26,4727.77
+P1289,Table Lamp 290,Home & Kitchen,Standard,1074.61,1470.43
+P1290,Sneakers 291,Fashion,Premium,215.11,361.46
+P1291,Sneakers 292,Fashion,Basic,869.33,1609.31
+P1292,Storage Box 293,Home & Kitchen,Premium,2264.34,4605.02
+P1293,Mixer 294,Home & Kitchen,Standard,3237.46,5054.36
+P1294,Bluetooth Speaker 295,Electronics,Premium,1290.63,1654.81
+P1295,Coffee Maker 296,Home & Kitchen,Standard,3062.03,5193.83
+P1296,Sneakers 297,Fashion,Standard,1444.74,2750.15
+P1297,Skin Serum 298,Beauty,Basic,1205.3,2022.53
+P1298,Water Bottle 299,Home & Kitchen,Standard,1828.45,2688.24
+P1299,Sunscreen 300,Beauty,Basic,3193.19,6090.49
+P1300,Hoodie 301,Fashion,Basic,2150.2,4066.56
+P1301,Skin Serum 302,Beauty,Standard,494.19,805.45
+P1302,Wireless Headphones 303,Electronics,Premium,2460.58,3921.72
+P1303,Hoodie 304,Fashion,Premium,2899.38,4993.36
+P1304,Sunscreen 305,Beauty,Basic,1624.1,2623.49
+P1305,Yoga Mat 306,Fitness,Premium,2907.54,3680.39
+P1306,Protein Shaker 307,Fitness,Premium,3376.89,4245.96
+P1307,Jacket 308,Fashion,Basic,660.8,1328.35
+P1308,Water Bottle 309,Home & Kitchen,Standard,1591.67,2641.26
+P1309,Perfume 310,Beauty,Basic,1585.12,2049.63
+P1310,Bluetooth Speaker 311,Electronics,Premium,2492.95,4709.36
+P1311,Resistance Bands 312,Fitness,Standard,881.24,1720.27
+P1312,Bluetooth Speaker 313,Electronics,Basic,534.24,1055.03
+P1313,Power Bank 314,Electronics,Premium,2850.14,6019.83
+P1314,Storage Box 315,Home & Kitchen,Standard,3281.97,6709.97
+P1315,Sneakers 316,Fashion,Premium,3837.17,7844.46
+P1316,Backpack 317,Fashion,Premium,3216.17,4490.18
+P1317,Wireless Headphones 318,Electronics,Premium,3057.04,5602.66
+P1318,Face Wash 319,Beauty,Standard,3852.02,7396.01
+P1319,Fitness Tracker 320,Fitness,Basic,1149.37,1567.89
+P1320,Table Lamp 321,Home & Kitchen,Standard,1233.23,2072.0
+P1321,Yoga Mat 322,Fitness,Premium,2662.16,3767.2
+P1322,Fitness Tracker 323,Fitness,Premium,1046.36,1571.49
+P1323,Resistance Bands 324,Fitness,Premium,3258.04,5100.2
+P1324,Protein Shaker 325,Fitness,Basic,451.77,788.35
+P1325,Water Bottle 326,Home & Kitchen,Basic,172.9,323.96
+P1326,Resistance Bands 327,Fitness,Premium,3391.99,4634.75
+P1327,Sunscreen 328,Beauty,Standard,3401.71,6391.89
+P1328,Fitness Tracker 329,Fitness,Standard,529.43,755.97
+P1329,Mixer 330,Home & Kitchen,Premium,1025.26,1441.24
+P1330,Sunscreen 331,Beauty,Premium,1438.02,3030.88
+P1331,Wireless Headphones 332,Electronics,Basic,1012.94,2154.22
+P1332,Laptop Stand 333,Electronics,Premium,2266.18,3891.11
+P1333,Hair Dryer 334,Beauty,Standard,2744.06,5503.7
+P1334,Jacket 335,Fashion,Basic,3836.9,4614.6
+P1335,Skin Serum 336,Beauty,Premium,1682.81,2320.65
+P1336,Water Bottle 337,Home & Kitchen,Basic,734.24,989.04
+P1337,Laptop Stand 338,Electronics,Premium,2882.64,3606.59
+P1338,Protein Shaker 339,Fitness,Standard,3371.39,6582.87
+P1339,Water Bottle 340,Home & Kitchen,Premium,1725.69,2805.04
+P1340,Storage Box 341,Home & Kitchen,Standard,2761.7,3343.79
+P1341,Sunscreen 342,Beauty,Standard,1640.47,2264.07
+P1342,Sunscreen 343,Beauty,Premium,846.0,1481.0
+P1343,Protein Shaker 344,Fitness,Standard,1096.83,1727.71
+P1344,Resistance Bands 345,Fitness,Premium,2911.67,5301.2
+P1345,Storage Box 346,Home & Kitchen,Standard,1420.59,1775.17
+P1346,Hair Dryer 347,Beauty,Premium,252.67,426.39
+P1347,Jacket 348,Fashion,Premium,1772.89,3539.48
+P1348,Laptop Stand 349,Electronics,Basic,465.8,954.86
+P1349,Hoodie 350,Fashion,Basic,968.25,1501.5
+P1350,Protein Shaker 351,Fitness,Standard,3460.72,7051.75
+P1351,Sunscreen 352,Beauty,Premium,2132.38,2733.0
+P1352,Smart Watch 353,Electronics,Standard,2423.34,4753.97
+P1353,Sunscreen 354,Beauty,Basic,1159.9,1604.21
+P1354,Perfume 355,Beauty,Basic,2063.61,4022.61
+P1355,Yoga Mat 356,Fitness,Standard,2093.82,3013.98
+P1356,Sunscreen 357,Beauty,Standard,3495.33,7242.35
+P1357,Table Lamp 358,Home & Kitchen,Basic,2684.58,3420.93
+P1358,Water Bottle 359,Home & Kitchen,Standard,1043.68,1898.1
+P1359,Resistance Bands 360,Fitness,Premium,3158.02,5287.35
+P1360,Protein Shaker 361,Fitness,Basic,1320.57,2752.76
+P1361,Smart Watch 362,Electronics,Premium,1618.13,3424.35
+P1362,T-Shirt 363,Fashion,Basic,2199.51,3990.52
+P1363,Sunscreen 364,Beauty,Standard,631.08,926.16
+P1364,Protein Shaker 365,Fitness,Basic,3902.54,7487.68
+P1365,Laptop Stand 366,Electronics,Basic,1986.74,3420.03
+P1366,Perfume 367,Beauty,Premium,488.01,967.88
+P1367,Bluetooth Speaker 368,Electronics,Standard,424.76,674.09
+P1368,Face Wash 369,Beauty,Basic,1731.01,3121.16
+P1369,Sunscreen 370,Beauty,Premium,1749.8,3780.82
+P1370,T-Shirt 371,Fashion,Standard,3221.93,6957.2
+P1371,Protein Shaker 372,Fitness,Basic,2147.13,3225.49
+P1372,Table Lamp 373,Home & Kitchen,Basic,3928.04,5032.7
+P1373,Perfume 374,Beauty,Standard,3719.26,4819.35
+P1374,Skin Serum 375,Beauty,Basic,3256.59,6447.83
+P1375,Mixer 376,Home & Kitchen,Premium,2689.84,5332.75
+P1376,Coffee Maker 377,Home & Kitchen,Premium,489.02,769.48
+P1377,Power Bank 378,Electronics,Premium,1445.5,3153.4
+P1378,Bluetooth Speaker 379,Electronics,Basic,1969.26,2460.89
+P1379,Backpack 380,Fashion,Basic,1148.36,2347.34
+P1380,Wireless Headphones 381,Electronics,Premium,3582.84,7621.98
+P1381,Jacket 382,Fashion,Basic,704.86,1330.84
+P1382,Smart Watch 383,Electronics,Premium,1698.99,3288.35
+P1383,Jacket 384,Fashion,Standard,3323.87,4857.02
+P1384,Water Bottle 385,Home & Kitchen,Premium,2076.3,3171.1
+P1385,Table Lamp 386,Home & Kitchen,Basic,1905.29,2840.06
+P1386,Backpack 387,Fashion,Basic,1457.6,2145.99
+P1387,Face Wash 388,Beauty,Premium,1299.0,2309.58
+P1388,Hair Dryer 389,Beauty,Premium,2461.09,5219.32
+P1389,Laptop Stand 390,Electronics,Premium,1653.73,3071.75
+P1390,Wireless Headphones 391,Electronics,Standard,3867.05,6443.9
+P1391,Mixer 392,Home & Kitchen,Basic,3149.74,6834.16
+P1392,Water Bottle 393,Home & Kitchen,Premium,3190.64,4085.63
+P1393,Resistance Bands 394,Fitness,Standard,893.48,1335.65
+P1394,Bluetooth Speaker 395,Electronics,Premium,2791.93,5224.92
+P1395,Perfume 396,Beauty,Basic,678.04,1118.32
+P1396,Fitness Tracker 397,Fitness,Basic,1774.0,3352.63
+P1397,Yoga Mat 398,Fitness,Basic,1154.65,1660.13
+P1398,Coffee Maker 399,Home & Kitchen,Premium,2447.39,3139.58
+P1399,Perfume 400,Beauty,Premium,2725.09,4467.59
+P1400,Hoodie 401,Fashion,Standard,2214.93,4434.26
+P1401,Jacket 402,Fashion,Basic,846.74,1193.86
+P1402,Bluetooth Speaker 403,Electronics,Premium,3619.16,7024.71
+P1403,Storage Box 404,Home & Kitchen,Basic,1161.38,2230.7
+P1404,Table Lamp 405,Home & Kitchen,Standard,1910.18,3471.34
+P1405,T-Shirt 406,Fashion,Premium,3178.59,3956.57
+P1406,Storage Box 407,Home & Kitchen,Standard,2503.05,3850.85
+P1407,Jacket 408,Fashion,Standard,2137.17,3342.01
+P1408,Skin Serum 409,Beauty,Standard,3773.04,6780.74
+P1409,Mixer 410,Home & Kitchen,Basic,3409.41,4966.57
+P1410,Dumbbell Set 411,Fitness,Basic,1553.75,3087.41
+P1411,Protein Shaker 412,Fitness,Basic,1052.6,2315.71
+P1412,Jacket 413,Fashion,Basic,2691.31,5643.19
+P1413,Fitness Tracker 414,Fitness,Basic,552.38,891.45
+P1414,Yoga Mat 415,Fitness,Basic,1443.3,3133.35
+P1415,Sunscreen 416,Beauty,Standard,707.28,1377.9
+P1416,Fitness Tracker 417,Fitness,Basic,2578.76,5289.96
+P1417,Water Bottle 418,Home & Kitchen,Standard,3912.56,7848.17
+P1418,Jacket 419,Fashion,Basic,1120.79,2279.96
+P1419,Dumbbell Set 420,Fitness,Standard,2178.02,4036.55
+P1420,Power Bank 421,Electronics,Basic,1229.7,2479.09
+P1421,Wireless Headphones 422,Electronics,Premium,1861.18,3737.93
+P1422,Dumbbell Set 423,Fitness,Premium,1794.93,3260.57
+P1423,Sneakers 424,Fashion,Premium,546.53,706.37
+P1424,Storage Box 425,Home & Kitchen,Standard,3818.93,7355.51
+P1425,Bluetooth Speaker 426,Electronics,Basic,814.88,1464.94
+P1426,Smart Watch 427,Electronics,Premium,3157.6,5679.6
+P1427,Sunscreen 428,Beauty,Basic,1876.52,3819.18
+P1428,Backpack 429,Fashion,Basic,345.48,633.38
+P1429,Bluetooth Speaker 430,Electronics,Basic,1971.08,3642.88
+P1430,Fitness Tracker 431,Fitness,Basic,1268.23,1727.93
+P1431,Resistance Bands 432,Fitness,Premium,3900.65,8051.84
+P1432,Bluetooth Speaker 433,Electronics,Premium,3649.43,7184.85
+P1433,Table Lamp 434,Home & Kitchen,Standard,399.94,731.06
+P1434,Laptop Stand 435,Electronics,Premium,1618.47,2483.2
+P1435,Jacket 436,Fashion,Standard,1109.5,1531.84
+P1436,T-Shirt 437,Fashion,Premium,686.88,907.51
+P1437,Protein Shaker 438,Fitness,Basic,2889.52,6155.88
+P1438,Fitness Tracker 439,Fitness,Standard,1614.22,2108.2
+P1439,Coffee Maker 440,Home & Kitchen,Premium,1001.46,1949.84
+P1440,Laptop Stand 441,Electronics,Basic,1491.83,2779.02
+P1441,Jacket 442,Fashion,Premium,941.65,1842.6
+P1442,Coffee Maker 443,Home & Kitchen,Premium,2672.42,3800.81
+P1443,Dumbbell Set 444,Fitness,Standard,3738.1,6439.47
+P1444,Mixer 445,Home & Kitchen,Premium,996.47,1760.44
+P1445,Sneakers 446,Fashion,Premium,1749.0,3702.88
+P1446,Resistance Bands 447,Fitness,Standard,1342.95,2801.81
+P1447,Power Bank 448,Electronics,Standard,3008.18,5655.05
+P1448,T-Shirt 449,Fashion,Premium,857.76,1103.2
+P1449,Protein Shaker 450,Fitness,Premium,3478.08,6158.09
+P1450,Wireless Headphones 451,Electronics,Standard,3866.37,6636.21
+P1451,Mixer 452,Home & Kitchen,Basic,2426.83,5332.01
+P1452,Water Bottle 453,Home & Kitchen,Premium,2906.18,4533.73
+P1453,Sunscreen 454,Beauty,Basic,3337.01,4990.48
+P1454,Perfume 455,Beauty,Basic,2171.54,3122.56
+P1455,Perfume 456,Beauty,Standard,3979.53,8494.4
+P1456,Coffee Maker 457,Home & Kitchen,Basic,3514.37,5627.01
+P1457,Hoodie 458,Fashion,Standard,2954.83,4316.36
+P1458,Storage Box 459,Home & Kitchen,Standard,1651.5,3310.49
+P1459,Bluetooth Speaker 460,Electronics,Basic,367.17,458.78
+P1460,T-Shirt 461,Fashion,Premium,2695.15,5321.84
+P1461,Laptop Stand 462,Electronics,Basic,1626.64,3049.42
+P1462,Water Bottle 463,Home & Kitchen,Premium,3626.47,4714.36
+P1463,Yoga Mat 464,Fitness,Basic,3347.49,5964.36
+P1464,Skin Serum 465,Beauty,Standard,1776.07,2223.13
+P1465,Sneakers 466,Fashion,Standard,1628.69,3247.43
+P1466,T-Shirt 467,Fashion,Standard,2236.56,3078.2
+P1467,Smart Watch 468,Electronics,Basic,1044.05,2137.82
+P1468,Laptop Stand 469,Electronics,Basic,1816.69,2353.5
+P1469,Storage Box 470,Home & Kitchen,Standard,3897.33,5664.62
+P1470,T-Shirt 471,Fashion,Standard,3216.48,3900.95
+P1471,Mixer 472,Home & Kitchen,Basic,1137.53,1748.52
+P1472,Power Bank 473,Electronics,Premium,3458.79,6737.54
+P1473,Hair Dryer 474,Beauty,Basic,1335.88,2655.04
+P1474,Skin Serum 475,Beauty,Basic,3268.73,5596.13
+P1475,Table Lamp 476,Home & Kitchen,Basic,2105.37,3599.18
+P1476,Face Wash 477,Beauty,Basic,794.48,1599.07
+P1477,Perfume 478,Beauty,Premium,2901.23,5945.74
+P1478,Hair Dryer 479,Beauty,Basic,3290.35,6532.78
+P1479,Hoodie 480,Fashion,Standard,3154.45,6764.56
+P1480,Perfume 481,Beauty,Basic,2480.83,5030.97
+P1481,Sunscreen 482,Beauty,Standard,3235.16,4756.44
+P1482,Backpack 483,Fashion,Standard,2328.05,4492.42
+P1483,Perfume 484,Beauty,Basic,548.35,948.96
+P1484,Hoodie 485,Fashion,Standard,160.93,231.79
+P1485,Power Bank 486,Electronics,Standard,2022.53,3047.81
+P1486,Hoodie 487,Fashion,Standard,3118.7,5730.31
+P1487,Bluetooth Speaker 488,Electronics,Premium,1180.03,1436.19
+P1488,Hoodie 489,Fashion,Standard,1130.65,1943.67
+P1489,Wireless Headphones 490,Electronics,Premium,3084.59,5562.65
+P1490,Face Wash 491,Beauty,Basic,364.9,608.11
+P1491,Sneakers 492,Fashion,Standard,3844.13,8088.23
+P1492,Perfume 493,Beauty,Basic,3008.22,4463.64
+P1493,Resistance Bands 494,Fitness,Basic,235.34,389.81
+P1494,Yoga Mat 495,Fitness,Basic,1591.59,2985.58
+P1495,Perfume 496,Beauty,Standard,421.77,895.58
+P1496,T-Shirt 497,Fashion,Basic,2983.06,6476.22
+P1497,Wireless Headphones 498,Electronics,Premium,3481.46,5675.57
+P1498,Water Bottle 499,Home & Kitchen,Standard,2700.61,5524.45
+P1499,Resistance Bands 500,Fitness,Basic,934.92,1130.91
